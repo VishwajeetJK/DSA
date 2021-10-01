@@ -17,7 +17,7 @@
 
 - Make a habit of checking your emails from time to time. If you miss out on an important mail, you may regret it later.
 
-- Talk to like-minded people and share resources with each other. **Don't be greedy :x:.**
+- Talk to like-minded people and share resources with each other.
 
 - Try to make a group with friends who solve questions consistently. Discuss your solutions with each other to understand various approaches for the same question.
 

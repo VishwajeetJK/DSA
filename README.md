@@ -230,7 +230,7 @@ To practice SQL questions, you can try [Leetcode Database Problems](https://leet
 <details>
   <summary>Projects</summary>
   <ul>
-  <li>Try to make unique projects.</li>
+  <li>Try to make atleast 2-3 unique projects.</li>
   <li>Host your projects if possible.</li>
   <li>Be thorough with all the concepts in your project.</li>
   <li>Go through your projects and make sure they are working prior to your interviews.</li>
@@ -238,22 +238,6 @@ To practice SQL questions, you can try [Leetcode Database Problems](https://leet
 </details>
 
 <br>
-
-# Contributors :fire:
- - [Belide Aakash](https://www.linkedin.com/in/belideaakash/)
- - [Amanpreet Taluja](https://www.linkedin.com/in/amanpreet-taluja-a14822216/)
- - [Apnik Jain](https://www.linkedin.com/in/apnik-jain/)
- - [Umang Agarwal](https://www.linkedin.com/in/umang-agarwal-5b227617b)
-
-<br>
-
-Other Contributors:
- - [Sarthak Verma](https://linkedin.com/in/sarthakv/) - DSA450 Extra tracker and DSA Playlist
- - [Mihir Bhasin](https://www.linkedin.com/in/mihir-bhasin-3906bb185) - Extra resources for aptitude and reasoning
-
- **:red_circle:Note: All the above-mentioned tips are based on our personal views and experiences. This is just to help you out with your preparation and doesn't guarantee that you will be placed. We are not responsible for anything.**
-
-Star :star: this repo if you like it.
 
 <p align="center"><b>Good luck with your preparation &#128077<b>
 </p>
